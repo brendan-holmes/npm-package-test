@@ -1,8 +1,8 @@
 {
   "name": "@brendan-holmes/npm-package-test",
-  "version": "3.0.0",
-  "main": "index.js",
-  "types": "index.d.ts",
+  "version": "3.0.2",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
   "dependencies": {
     "typescript": "^5.0.4"
   },
